@@ -19,7 +19,20 @@ I worked on this project by following the Codebasics Power BI Course. Link to th
 - Project Charter File
 
 ---
+## Home view
 
+In-Home view, all the views button will be available. Users will land on a specific view page by clicking the button 
+
+- Info
+- Finance View
+- Sales View
+- Marketing View
+- Supply chain View
+- Executive View
+- Products
+- Support
+
+##
 
 ---
 
@@ -125,7 +138,7 @@ We followed a snowflake data modeling approach for this project. For detailed vi
 - **Full Report**: [Report File](https://app.powerbi.com/view?r=eyJrIjoiZGRmZjY4ZGEtYzhmMC00MWE3LWI5YWItM2E5MzExYzRjZGI2IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9).
 
 ---
-
+you can find the full report file here : [Report](https://github.com/kumarmohit108/AtliQ-Hardware-Business-Insights-360)
 ## Project Outcome
 
 By using this report, stakeholders can make data-driven decisions and address "why" questions across various business scenarios.  
