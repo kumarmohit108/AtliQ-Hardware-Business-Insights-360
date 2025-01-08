@@ -68,7 +68,7 @@ The datasets are imported from a MySQL database into Power BI. Database credenti
 ## Data Model and Dashboard
 
 We followed a snowflake data modeling approach for this project. For detailed visuals of the data model and the interactive dashboards:  
-- **Full Report**: [Report File]((https://app.powerbi.com/view?r=eyJrIjoiZGRmZjY4ZGEtYzhmMC00MWE3LWI5YWItM2E5MzExYzRjZGI2IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)).
+- **Full Report**: [Report File](https://app.powerbi.com/view?r=eyJrIjoiZGRmZjY4ZGEtYzhmMC00MWE3LWI5YWItM2E5MzExYzRjZGI2IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9).
 
 ---
 
