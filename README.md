@@ -4,7 +4,7 @@
 
 AtliQ Hardware is growing rapidly in recent years, and they have decided to implement data analytics using Power BI to surpass their competitors in the market and make data-driven decisions. This project answers stakeholders' questions across finance, sales, marketing, and supply chain.
 
-I worked on this project by following the Codebasics Power BI Course. Link to the course is [here](https://codebasics.io/courses/power-bi-data-analysis-with-end-to-end-project).
+I worked on this project by following the Codebasics Power BI Course. Link to the course is [here](https://codebasics.io/bootcamps/dashboard/data-analytics-bootcamp-with-practical-job-assistance).
 
 You can view the **Live Report** on my **Novy Pro Portfolio**:  
 [**Live Report Link**](#) ← **Replace this with your Novy Pro link**  
