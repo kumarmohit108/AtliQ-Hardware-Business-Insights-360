@@ -6,8 +6,6 @@ AtliQ Hardware is growing rapidly in recent years, and they have decided to impl
 
 I worked on this project by following the Codebasics Power BI Course. Link to the course is [here](https://codebasics.io/bootcamps/dashboard/data-analytics-bootcamp-with-practical-job-assistance).
 
-You can view the **Live Report** on my **Novy Pro Portfolio**:  
-[**Live Report Link**](#) ← **Replace this with your Novy Pro link**  
 
 ---
 
@@ -22,10 +20,6 @@ You can view the **Live Report** on my **Novy Pro Portfolio**:
 
 ---
 
-## GitHub Repository  
-
-The source files and code for this project can be found in my **GitHub Repository**:  
-[**GitHub Repository Link**](#) ← **Replace this with your GitHub link**  
 
 ---
 
@@ -62,8 +56,6 @@ This project uses data from multiple tables:
 1. **Dimension Tables**: Contain static data like customer and product details.
 2. **Fact Tables**: Contain transactional data for sales, forecasts, and costs.
 
-For more details, check the complete dataset structure in the **GitHub Repository**:  
-[**GitHub Repository Link**](#) ← **Replace this with your GitHub link**  
 
 ---
 
@@ -76,7 +68,7 @@ The datasets are imported from a MySQL database into Power BI. Database credenti
 ## Data Model and Dashboard
 
 We followed a snowflake data modeling approach for this project. For detailed visuals of the data model and the interactive dashboards:  
-- **Full Report**: [Report File](#) ← **Replace this with your GitHub link**  
+- **Full Report**: [Report File](<iframe title="powerbi_course" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiZGRmZjY4ZGEtYzhmMC00MWE3LWI5YWItM2E5MzExYzRjZGI2IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9" frameborder="0" allowFullScreen="true"></iframe>).
 
 ---
 
